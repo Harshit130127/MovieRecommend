@@ -1,0 +1,8 @@
+# Ignore Python virtual environment
+myenv/
+# Ignore Jupyter Notebook
+eda.ipynb
+
+# Ignore data files because they are large and can be generated from the code
+similarity.pkl
+
